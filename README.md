@@ -64,4 +64,10 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=krish129ox&theme=default&background=0D1117&border=00F0FF&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
 </div>
 
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph-pi-three.vercel.app/graph?username=krish129ox&bg_color=0D1117&color=00F0FF&line=00F0FF&point=7F5AF0&area=true&area_color=00F0FF&hide_border=true" alt="Contribution graph"/>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:00F0FF&height=120&section=footer" width="100%" alt=""/>
